@@ -1,0 +1,22 @@
+{
+  "name": "whoami",
+  "version": "1.0.0",
+  "description": "get your info",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VTmoorek1/clientinfo.git"
+  },
+  "author": "KMM",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VTmoorek1/clientinfo/issues"
+  },
+  "homepage": "https://github.com/VTmoorek1/clientinfo#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
